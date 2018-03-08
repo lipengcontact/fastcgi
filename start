@@ -1,0 +1,1 @@
+spawn-fcgi -p 8000 -n hello_world   //remove the -n switch from the start executable if you want it to run in the background
